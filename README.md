@@ -7,7 +7,6 @@
   🏛️ <b>EAJ / UFRN — Escola Agrícola de Jundiaí (Universidade Federal do Rio Grande do Norte)</b>
 </p>
 
-<!-- Seção Sobre Mim / Soft Skills -->
 <h2>📌 Sobre Mim</h2>
 <ul>
   <li>🌐 <b>Idiomas:</b> Português (Nativo) | Inglês (Básico - em evolução)</li>
