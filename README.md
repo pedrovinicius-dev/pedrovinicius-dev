@@ -25,26 +25,3 @@
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
   ---
-
-  <!-- Gráficos de Estatísticas do GitHub -->
-  ## 📊 Estatísticas
-
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <!-- Gráfico em Círculo (Pizza) das Linguagens do Perfil -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=pie&theme=tokyonight&hide_border=true&card_width=380" alt="Linguagens mais usadas" />
-      </td>
-      <td align="center" width="50%">
-        <!-- Card de Estatísticas Gerais de Commits/Contribuições -->
-        <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas Gerais do GitHub" />
-      </td>
-    </tr>
-  </table>
-
-  ---
-
-  <!-- Streak / Sequência de Dias Commitados -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrovinicius-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
