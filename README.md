@@ -45,6 +45,6 @@
   ---
 
   <!-- Streak / Sequência de Dias Commitados -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrovinicius-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
