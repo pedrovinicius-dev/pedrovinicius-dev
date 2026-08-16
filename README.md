@@ -11,9 +11,9 @@
 
 <h2>📌 Sobre Mim</h2>
 <ul>
-  <li>🌐 <b>Idiomas:</b> Português (Nativo) | Inglês (Básico - em evolução)</li>
-  <li>🚀 <b>Mentalidade:</b> Foco em aprendizado contínuo, resolução de problemas e adaptação rápida a novas tecnologias.</li>
-  <li>🎯 <b>Objetivo:</b> Buscando oportunidades de estágio/projetos para aplicar conceitos de C++, Java e desenvolvimento de software.</li>
+  <li>Inglês (Básico - em evolução)</li>
+  <li>Foco no aprendizado contínuo e resolução de problemas..</li>
+  <li>Buscando oportunidades de estágio/projetos para aplicar na prática o desenvolvimento de software.</li>
 </ul>
 <hr>
 
