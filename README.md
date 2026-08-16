@@ -36,7 +36,7 @@
 <hr>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrovinicius-dev3&theme=dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrovinicius-dev&theme=dark" height="180" />
 </p>
 
 </div>
