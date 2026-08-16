@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=180&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=100&section=header" width="100%" />
 
 <h1>👨‍💻 Pedro Vinícius de Almeida Batista</h1>
 
